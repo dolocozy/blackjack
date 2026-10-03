@@ -1,0 +1,16 @@
+# Build output
+build/
+dist/
+out/
+*.class
+*.jar
+
+# NetBeans
+nbproject/private/
+
+# OS / editor files
+.DS_Store
+__MACOSX/
+.idea/
+*.iml
+.vscode/
